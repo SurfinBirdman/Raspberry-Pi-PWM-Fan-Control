@@ -1,5 +1,7 @@
 # Raspberry Pi PWM Fan Control
 
+Temperature tweaks for my personal use.
+
 This is a simple script to control your pwm fan on raspberry pi.
 
 Here's how I wiring the PWM fan on pi:

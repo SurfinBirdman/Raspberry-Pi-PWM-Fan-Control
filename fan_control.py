@@ -16,8 +16,8 @@ PWM_FREQ = 25           # [Hz] PWM frequency
 FAN_PIN = 18            # BCM pin used to drive PWM fan
 WAIT_TIME = 1           # [s] Time to wait between each refresh
 
-OFF_TEMP = 40           # [°C] temperature below which to stop the fan
-MIN_TEMP = 45           # [°C] temperature above which to start the fan
+OFF_TEMP = 43           # [°C] temperature below which to stop the fan
+MIN_TEMP = 47          # [°C] temperature above which to start the fan
 MAX_TEMP = 70           # [°C] temperature at which to operate at max fan speed
 FAN_LOW = 1
 FAN_HIGH = 100
